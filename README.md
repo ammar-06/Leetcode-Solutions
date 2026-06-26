@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0887-super-egg-drop](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0887-super-egg-drop) |
+| [0891-sum-of-subsequence-widths](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 ## Dynamic Programming
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0879-profitable-schemes) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
+| [0891-sum-of-subsequence-widths](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0896-monotonic-array) |
 ## Greedy
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
+| [0891-sum-of-subsequence-widths](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0891-sum-of-subsequence-widths) |
 ## Counting Sort
 |  |
 | ------- |
