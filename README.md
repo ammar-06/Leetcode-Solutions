@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 ## Tree
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 ## Stack
 |  |
 | ------- |
