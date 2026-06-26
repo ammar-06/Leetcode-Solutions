@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0888-fair-candy-swap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 ## Binary Tree
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
+| [0888-fair-candy-swap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 ## Greedy
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0888-fair-candy-swap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 ## Counting Sort
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0888-fair-candy-swap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 ## Stack
 |  |
 | ------- |
