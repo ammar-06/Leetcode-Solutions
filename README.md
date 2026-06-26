@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0706-design-hashmap) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 ## Greedy
 |  |
 | ------- |
