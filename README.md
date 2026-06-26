@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0748-shortest-completing-word) |
 ## Tree
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0748-shortest-completing-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0748-shortest-completing-word) |
 ## Greedy
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0706-design-hashmap) |
+| [0748-shortest-completing-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0748-shortest-completing-word) |
 ## Stack
 |  |
 | ------- |
