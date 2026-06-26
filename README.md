@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 ## String Matching
 |  |
 | ------- |
