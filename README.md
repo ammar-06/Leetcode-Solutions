@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0859-buddy-strings](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0859-buddy-strings) |
 ## Tree
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [0859-buddy-strings](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0859-buddy-strings) |
 ## Stack
 |  |
 | ------- |
