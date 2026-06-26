@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## Tree
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
