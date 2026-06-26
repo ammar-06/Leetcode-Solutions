@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0879-profitable-schemes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0879-profitable-schemes) |
 ## Recursion
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [0879-profitable-schemes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0879-profitable-schemes) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
