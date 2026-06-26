@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 ## Tree
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
+| [0804-unique-morse-code-words](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 ## Greedy
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 ## Stack
 |  |
 | ------- |
