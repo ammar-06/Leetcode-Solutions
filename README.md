@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0824-goat-latin) |
+| [0830-positions-of-large-groups](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0830-positions-of-large-groups) |
 ## Tree
 |  |
 | ------- |
