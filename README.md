@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## Tree
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## Array
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## Greedy
 |  |
 | ------- |
