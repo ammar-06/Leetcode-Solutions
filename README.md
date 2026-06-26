@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0661-image-smoother) |
 ## Greedy
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0661-image-smoother) |
 ## Simulation
 |  |
 | ------- |
