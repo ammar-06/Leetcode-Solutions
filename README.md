@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0896-monotonic-array) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0895-maximum-frequency-stack](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Stack
 |  |
 | ------- |
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
