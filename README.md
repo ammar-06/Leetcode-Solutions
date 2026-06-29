@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Array
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0891-sum-of-subsequence-widths](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [0899-orderly-queue](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0899-orderly-queue) |
+| [0905-sort-array-by-parity](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting Sort
 |  |
