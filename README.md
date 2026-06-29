@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0899-orderly-queue](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0899-orderly-queue) |
 | [0908-smallest-range-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Matrix
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0895-maximum-frequency-stack](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Stack
 |  |
@@ -361,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Number Theory
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
