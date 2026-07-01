@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0899-orderly-queue](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0899-orderly-queue) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0908-smallest-range-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0879-profitable-schemes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0879-profitable-schemes) |
 | [0887-super-egg-drop](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0887-super-egg-drop) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0899-orderly-queue](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0899-orderly-queue) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0917-reverse-only-letters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0887-super-egg-drop) |
 | [0888-fair-candy-swap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0897-increasing-order-search-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0938-range-sum-of-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0891-sum-of-subsequence-widths) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0896-monotonic-array) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0905-sort-array-by-parity](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
