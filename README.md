@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0920-number-of-music-playlists) |
 | [0940-distinct-subsequences-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0943-find-the-shortest-superstring) |
+| [0956-tallest-billboard](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0956-tallest-billboard) |
 ## Recursion
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-largest-component-size-by-common-factor](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [0956-tallest-billboard](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0956-tallest-billboard) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
