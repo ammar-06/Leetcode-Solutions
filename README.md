@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [0975-odd-even-jump](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [0996-number-of-squareful-arrays](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0996-number-of-squareful-arrays) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1000-minimum-cost-to-merge-stones) |
 ## Recursion
 |  |
 | ------- |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0996-number-of-squareful-arrays) |
 | [0997-find-the-town-judge](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0999-available-captures-for-rook) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1000-minimum-cost-to-merge-stones) |
 ## Geometry
 |  |
 | ------- |
