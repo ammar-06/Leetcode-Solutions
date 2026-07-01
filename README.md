@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0943-find-the-shortest-superstring) |
 | [0956-tallest-billboard](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0956-tallest-billboard) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-find-the-shortest-superstring](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0943-find-the-shortest-superstring) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Tree
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0956-tallest-billboard](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0956-tallest-billboard) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
