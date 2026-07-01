@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0964-least-operators-to-express-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0964-least-operators-to-express-number) |
 | [0968-binary-tree-cameras](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
+| [0975-odd-even-jump](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 ## Recursion
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-tallest-billboard](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0956-tallest-billboard) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0975-odd-even-jump](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [0976-largest-perimeter-triangle](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0899-orderly-queue) |
 | [0905-sort-array-by-parity](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0975-odd-even-jump](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [0976-largest-perimeter-triangle](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0897-increasing-order-search-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0936-stamping-the-sequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0936-stamping-the-sequence) |
+| [0975-odd-even-jump](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 ## Sliding Window
 |  |
 | ------- |
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
+| [0975-odd-even-jump](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 ## Enumeration
 |  |
 | ------- |
@@ -512,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0943-find-the-shortest-superstring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0975-odd-even-jump](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 <!---LeetCode Topics End-->
