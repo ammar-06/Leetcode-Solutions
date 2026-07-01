@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0903-valid-permutations-for-di-sequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0913-cat-and-mouse](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0913-cat-and-mouse) |
 | [0920-number-of-music-playlists](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0920-number-of-music-playlists) |
+| [0940-distinct-subsequences-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0936-stamping-the-sequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0936-stamping-the-sequence) |
+| [0940-distinct-subsequences-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
