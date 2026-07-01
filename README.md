@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search Tree
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
