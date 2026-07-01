@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0899-orderly-queue](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0899-orderly-queue) |
 | [0917-reverse-only-letters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0925-long-pressed-name) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Tree
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0925-long-pressed-name](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0925-long-pressed-name) |
 ## Array
 |  |
 | ------- |
