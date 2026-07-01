@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Tree
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
