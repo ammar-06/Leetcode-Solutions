@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0920-number-of-music-playlists](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0920-number-of-music-playlists) |
 | [0927-three-equal-parts](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0927-three-equal-parts) |
+| [0952-largest-component-size-by-common-factor](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [0976-largest-perimeter-triangle](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 ## Dynamic Programming
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0943-find-the-shortest-superstring](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0943-find-the-shortest-superstring) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0952-largest-component-size-by-common-factor](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0928-minimize-malware-spread-ii) |
 | [0929-unique-email-addresses](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
+| [0952-largest-component-size-by-common-factor](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
@@ -466,11 +469,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0952-largest-component-size-by-common-factor](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 ## Union-Find
 |  |
 | ------- |
 | [0924-minimize-malware-spread](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0928-minimize-malware-spread-ii) |
+| [0952-largest-component-size-by-common-factor](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Queue
 |  |
