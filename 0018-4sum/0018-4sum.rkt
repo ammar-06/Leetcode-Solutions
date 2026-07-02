@@ -1,0 +1,26 @@
+(define/contract (four-sum nums target)
+  (-> (listof exact-integer?) exact-integer? (listof (listof exact-integer?)))
+  (define sorted (sort nums <))
+  (define n (length sorted))
+  (define vec (list->vector sorted))
+  (define result '())
+  (for ([i (in-range n)])
+    (when (or (= i 0) (not (= (vector-ref vec i) (vector-ref vec (sub1 i)))))
+      (for ([j (in-range (add1 i) n)])
+        (when (or (= j (add1 i)) (not (= (vector-ref vec j) (vector-ref vec (sub1 j)))))
+          (let loop ([lo (add1 j)] [hi (sub1 n)])
+            (when (< lo hi)
+              (define sum (+ (vector-ref vec i) (vector-ref vec j) (vector-ref vec lo) (vector-ref vec hi)))
+              (cond
+                [(< sum target) (loop (add1 lo) hi)]
+                [(> sum target) (loop lo (sub1 hi))]
+                [else
+                 (set! result (cons (list (vector-ref vec i) (vector-ref vec j) (vector-ref vec lo) (vector-ref vec hi)) result))
+                 (let skip-lo ([l (add1 lo)])
+                   (if (and (< l hi) (= (vector-ref vec l) (vector-ref vec lo)))
+                       (skip-lo (add1 l))
+                       (let skip-hi ([h (sub1 hi)])
+                         (if (and (> h l) (= (vector-ref vec h) (vector-ref vec hi)))
+                             (skip-hi (sub1 h))
+                             (loop l h)))))])))))))
+  result)
