@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0520-detect-capital](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0566-reshape-the-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0682-baseball-game) |
