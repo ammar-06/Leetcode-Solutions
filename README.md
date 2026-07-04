@@ -2,11 +2,6 @@
 
 A growing collection of my LeetCode solutions — synced straight from LeetCode to GitHub on every solve via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0), and browsable as a live, organized web app.
 
-[![Live App](https://img.shields.io/badge/live%20app-visit-6c5ce7?style=for-the-badge)](https://your-vercel-url-here.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-ammar--06-181717?style=for-the-badge&logo=github)](https://github.com/ammar-06)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ammar%20Ahmad-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ammar-ahmad2408/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-000000?style=for-the-badge)](https://ammar-ahmad.vercel.app/)
-
 ## 🔗 Where to see this
 
 - **Live web app:** [your-vercel-url-here.vercel.app](https://your-vercel-url-here.vercel.app) — organized, searchable, filterable view of every solution below, with a stats dashboard, category browser, and syntax-highlighted code previews.
