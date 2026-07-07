@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
