@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0879-profitable-schemes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0879-profitable-schemes) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0561-array-partition](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0575-distribute-candies) |
@@ -650,4 +652,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0980-unique-paths-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 | [0996-number-of-squareful-arrays](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0996-number-of-squareful-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
