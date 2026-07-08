@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
@@ -41,8 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
@@ -71,21 +71,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0913-cat-and-mouse](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0913-cat-and-mouse) |
 | [0964-least-operators-to-express-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0964-least-operators-to-express-number) |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0511-game-play-analysis-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
@@ -98,8 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0627-swap-sex-of-employees) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
@@ -153,8 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -177,8 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -203,8 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ammar-06/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
@@ -221,8 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -240,8 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0563-binary-tree-tilt) |
@@ -261,8 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0015-3sum) |
@@ -289,8 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0016-3sum-closest) |
@@ -395,8 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0055-jump-game) |
@@ -409,8 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0018-4sum) |
@@ -435,8 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0561-array-partition](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0819-most-common-word) |
@@ -444,8 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0036-valid-sudoku](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
@@ -468,8 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0043-multiply-strings](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
@@ -481,19 +481,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0999-available-captures-for-rook) |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0572-subtree-of-another-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0572-subtree-of-another-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -531,8 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0071-simplify-path](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -543,8 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-stamping-the-sequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0936-stamping-the-sequence) |
 | [0975-odd-even-jump](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -552,8 +552,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0029-divide-two-integers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0645-set-mismatch](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
@@ -566,29 +566,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [0996-number-of-squareful-arrays](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0996-number-of-squareful-arrays) |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0933-number-of-recent-calls](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Data Stream
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
@@ -597,23 +597,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0724-find-pivot-index](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1000-minimum-cost-to-merge-stones) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Geometry
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0812-largest-triangle-area](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0913-cat-and-mouse](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0913-cat-and-mouse) |
 | [0924-minimize-malware-spread](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0924-minimize-malware-spread) |
@@ -623,65 +623,65 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0895-maximum-frequency-stack](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0975-odd-even-jump](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0906-super-palindromes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0906-super-palindromes) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-largest-component-size-by-common-factor](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0924-minimize-malware-spread](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0928-minimize-malware-spread-ii) |
 | [0952-largest-component-size-by-common-factor](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ammar-06/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0933-number-of-recent-calls](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [0936-stamping-the-sequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0936-stamping-the-sequence) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Topological Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0913-cat-and-mouse](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0913-cat-and-mouse) |
 | [3620-network-recovery-pathways](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0913-cat-and-mouse](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0913-cat-and-mouse) |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0920-number-of-music-playlists](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0920-number-of-music-playlists) |
 ## Bitmask
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0943-find-the-shortest-superstring](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0943-find-the-shortest-superstring) |
 | [0996-number-of-squareful-arrays](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0996-number-of-squareful-arrays) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0975-odd-even-jump](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0039-combination-sum) |
@@ -691,7 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 | [0996-number-of-squareful-arrays](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0996-number-of-squareful-arrays) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0053-maximum-subarray](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
