@@ -1,3 +1,4 @@
+import React from 'react';
 import Link from 'next/link';
 import { getAllProblems, getStats, getRecentlysolved, getAllCategories } from '@/lib/data';
 import { DIFFICULTY_STYLES, CATEGORY_EMOJIS } from '@/lib/constants';
@@ -37,12 +38,12 @@ export default function HomePage() {
       {/* Hero Section */}
       <div className="text-center mb-20">
         {/* Avatar/badge */}
-        <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full mb-6 text-sm font-medium text-violet-300 border border-violet-500/30" style={{ background: 'rgba(139,92,246,0.08)' }}>
+        <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full mb-6 text-sm font-medium text-violet-300 border border-violet-500/30 hero-badge-bg">
           <div className="w-2 h-2 rounded-full bg-green-400 animate-pulse" />
           Active — solving problems daily
         </div>
 
-        <h1 className="text-5xl sm:text-6xl lg:text-7xl font-extrabold mb-4 leading-tight" style={{ fontFamily: 'var(--font-display)' }}>
+        <h1 className="text-5xl sm:text-6xl lg:text-7xl font-extrabold mb-4 leading-tight font-display">
           <span className="text-white">Ammar's</span>
           <br />
           <span className="bg-gradient-to-r from-violet-400 via-purple-400 to-indigo-400 bg-clip-text text-transparent">
@@ -58,20 +59,17 @@ export default function HomePage() {
         {/* Social links */}
         <div className="flex items-center justify-center gap-3 mb-10">
           <a href="https://github.com/ammar-06" target="_blank" rel="noopener noreferrer"
-            className="flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium text-white transition-all hover:shadow-lg hover:shadow-black/30"
-            style={{ background: '#21262d', border: '1px solid #30363d' }}>
+            className="flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium text-white transition-all hover:shadow-lg hover:shadow-black/30 btn-github">
             <GitFork className="w-4 h-4" />
             GitHub
           </a>
           <a href="https://www.linkedin.com/in/ammar-ahmad2408/" target="_blank" rel="noopener noreferrer"
-            className="flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium text-white transition-all hover:shadow-lg hover:shadow-blue-900/40"
-            style={{ background: '#0a66c2', border: '1px solid #0a66c2' }}>
+            className="flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium text-white transition-all hover:shadow-lg hover:shadow-blue-900/40 btn-linkedin">
             <svg viewBox="0 0 24 24" className="w-4 h-4" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
             LinkedIn
           </a>
           <a href="https://ammar-ahmad.vercel.app/" target="_blank" rel="noopener noreferrer"
-            className="flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium text-slate-200 border border-white/10 hover:bg-white/8 hover:border-white/20 transition-all"
-            style={{ background: 'rgba(255,255,255,0.05)' }}>
+            className="flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium text-slate-200 border border-white/10 hover:bg-white/8 hover:border-white/20 transition-all btn-portfolio">
             <ExternalLink className="w-4 h-4" />
             Portfolio
           </a>
@@ -79,8 +77,7 @@ export default function HomePage() {
 
         {/* Quick action */}
         <Link href="/problems"
-          className="inline-flex items-center gap-2 px-6 py-3 rounded-xl text-base font-semibold text-white transition-all hover:shadow-xl hover:shadow-violet-500/25 hover:-translate-y-0.5"
-          style={{ background: 'linear-gradient(135deg, #7c3aed, #4f46e5)' }}>
+          className="inline-flex items-center gap-2 px-6 py-3 rounded-xl text-base font-semibold text-white transition-all hover:shadow-xl hover:shadow-violet-500/25 hover:-translate-y-0.5 btn-gradient-violet">
           Browse All Problems
           <ArrowRight className="w-4 h-4" />
         </Link>
@@ -98,7 +95,7 @@ export default function HomePage() {
             <div className={`w-10 h-10 rounded-xl bg-gradient-to-br ${color} flex items-center justify-center mb-3 shadow-lg ${shadow}`}>
               <Icon className="w-5 h-5 text-white" />
             </div>
-            <div className="text-3xl font-bold text-white mb-1" style={{ fontFamily: 'var(--font-display)' }}>
+            <div className="text-3xl font-bold text-white mb-1 font-display">
               <CountUp end={value} />
             </div>
             <div className="text-sm text-slate-400">{label}</div>
@@ -111,26 +108,36 @@ export default function HomePage() {
 
         {/* Difficulty breakdown */}
         <div className="glass rounded-2xl p-6">
-          <h2 className="text-lg font-bold text-white mb-5" style={{ fontFamily: 'var(--font-display)' }}>Difficulty Breakdown</h2>
+          <h2 className="text-lg font-bold text-white mb-5 font-display">Difficulty Breakdown</h2>
 
-          {/* Segmented bar */}
+          {/* Inject dynamic widths via a style tag — avoids inline style= warnings */}
+          <style>{`
+            .diff-bar-easy  { width: ${easyPct}%; }
+            .diff-bar-med   { width: ${medPct}%; }
+            .diff-bar-hard  { width: ${hardPct}%; }
+            ${topLanguages.map(([lang, count], i) => `
+              .lang-dot-chart-${i} { background-color: ${LANG_COLORS[lang] || '#6B7280'}; }
+              .lang-bar-chart-${i} { width: ${(count / maxLang) * 100}%; background-color: ${LANG_COLORS[lang] || '#6B7280'}; opacity: 0.8; }
+            `).join('')}
+          `}</style>
+
           <div className="flex h-4 rounded-full overflow-hidden mb-5 gap-0.5">
-            <div className="bg-green-500 rounded-l-full transition-all" style={{ width: `${easyPct}%` }} />
-            <div className="bg-amber-500 transition-all" style={{ width: `${medPct}%` }} />
-            <div className="bg-red-500 rounded-r-full transition-all" style={{ width: `${hardPct}%` }} />
+            <div className="bg-green-500 rounded-l-full transition-all diff-bar-easy" />
+            <div className="bg-amber-500 transition-all diff-bar-med" />
+            <div className="bg-red-500 rounded-r-full transition-all diff-bar-hard" />
           </div>
 
           <div className="space-y-3">
             {[
-              { label: 'Easy', count: stats.easy, pct: easyPct, color: 'bg-green-500', textColor: 'text-green-400' },
-              { label: 'Medium', count: stats.medium, pct: medPct, color: 'bg-amber-500', textColor: 'text-amber-400' },
-              { label: 'Hard', count: stats.hard, pct: hardPct, color: 'bg-red-500', textColor: 'text-red-400' },
-            ].map(({ label, count, pct, color, textColor }) => (
+              { label: 'Easy', count: stats.easy, pct: easyPct, color: 'bg-green-500', textColor: 'text-green-400', barClass: 'diff-bar-easy' },
+              { label: 'Medium', count: stats.medium, pct: medPct, color: 'bg-amber-500', textColor: 'text-amber-400', barClass: 'diff-bar-med' },
+              { label: 'Hard', count: stats.hard, pct: hardPct, color: 'bg-red-500', textColor: 'text-red-400', barClass: 'diff-bar-hard' },
+            ].map(({ label, count, pct, color, textColor, barClass }) => (
               <div key={label} className="flex items-center gap-3">
                 <div className={`w-3 h-3 rounded-full ${color}`} />
                 <span className="text-sm text-slate-300 w-16">{label}</span>
                 <div className="flex-1 h-2 rounded-full bg-white/5">
-                  <div className={`h-full rounded-full ${color} transition-all`} style={{ width: `${pct}%` }} />
+                  <div className={`h-full rounded-full ${color} transition-all ${barClass}`} />
                 </div>
                 <span className={`text-sm font-mono font-medium ${textColor} w-8 text-right`}>{count}</span>
               </div>
@@ -140,17 +147,14 @@ export default function HomePage() {
 
         {/* Language distribution */}
         <div className="glass rounded-2xl p-6">
-          <h2 className="text-lg font-bold text-white mb-5" style={{ fontFamily: 'var(--font-display)' }}>Languages Used</h2>
+          <h2 className="text-lg font-bold text-white mb-5 font-display">Languages Used</h2>
           <div className="space-y-3">
-            {topLanguages.map(([lang, count]) => (
+            {topLanguages.map(([lang, count], i) => (
               <div key={lang} className="flex items-center gap-3">
-                <div className="w-2 h-2 rounded-full shrink-0" style={{ backgroundColor: LANG_COLORS[lang] || '#6B7280' }} />
+                <div className={`w-2 h-2 rounded-full shrink-0 lang-dot-chart-${i}`} />
                 <span className="text-sm text-slate-300 w-24 truncate font-mono">{lang}</span>
                 <div className="flex-1 h-2 rounded-full bg-white/5">
-                  <div
-                    className="h-full rounded-full transition-all"
-                    style={{ width: `${(count / maxLang) * 100}%`, backgroundColor: LANG_COLORS[lang] || '#6B7280', opacity: 0.8 }}
-                  />
+                  <div className={`h-full rounded-full transition-all lang-bar-chart-${i}`} />
                 </div>
                 <span className="text-xs text-slate-400 font-mono w-6 text-right">{count}</span>
               </div>
@@ -162,7 +166,7 @@ export default function HomePage() {
       {/* Top categories */}
       <div className="glass rounded-2xl p-6 mb-12">
         <div className="flex items-center justify-between mb-5">
-          <h2 className="text-lg font-bold text-white" style={{ fontFamily: 'var(--font-display)' }}>Top Categories</h2>
+          <h2 className="text-lg font-bold text-white font-display">Top Categories</h2>
           <Link href="/problems" className="text-sm text-violet-400 hover:text-violet-300 flex items-center gap-1 transition-colors">
             Browse all <ArrowRight className="w-3 h-3" />
           </Link>
@@ -184,7 +188,7 @@ export default function HomePage() {
       {/* Recently Solved */}
       <div>
         <div className="flex items-center justify-between mb-6">
-          <h2 className="text-2xl font-bold text-white" style={{ fontFamily: 'var(--font-display)' }}>
+          <h2 className="text-2xl font-bold text-white font-display">
             Recently Solved
           </h2>
           <Link href="/problems" className="flex items-center gap-1 text-sm text-violet-400 hover:text-violet-300 transition-colors">

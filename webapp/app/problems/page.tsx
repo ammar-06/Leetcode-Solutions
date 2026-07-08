@@ -16,7 +16,7 @@ export default function ProblemsPage() {
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
       <div className="mb-8">
-        <h1 className="text-3xl font-extrabold text-white mb-2" style={{ fontFamily: 'var(--font-display)' }}>
+        <h1 className="text-3xl font-extrabold text-white mb-2 font-display">
           Browse Problems
         </h1>
         <p className="text-slate-400">

@@ -92,8 +92,13 @@ export default async function ProblemDetailPage({ params }: Props) {
       </Link>
 
       {/* Header */}
-      <div className={`glass rounded-2xl p-6 mb-6 border-l-4 ${diffStyles.border}`}
-        style={{ borderLeftColor: problem.difficulty === 'Easy' ? '#4ade80' : problem.difficulty === 'Medium' ? '#fbbf24' : '#f87171' }}>
+      <div className={`glass rounded-2xl p-6 mb-6 border-l-4 ${diffStyles.border} ${
+        problem.difficulty === 'Easy'
+          ? 'detail-border-easy'
+          : problem.difficulty === 'Medium'
+          ? 'detail-border-medium'
+          : 'detail-border-hard'
+      }`}>
         <div className="flex flex-wrap items-start justify-between gap-4">
           <div>
             <div className="flex items-center gap-2 mb-2">
@@ -101,7 +106,7 @@ export default async function ProblemDetailPage({ params }: Props) {
               <DifficultyBadge difficulty={problem.difficulty} />
               <LanguageBadge language={problem.language} />
             </div>
-            <h1 className="text-2xl sm:text-3xl font-extrabold text-white" style={{ fontFamily: 'var(--font-display)' }}>
+            <h1 className="text-2xl sm:text-3xl font-extrabold text-white font-display">
               {problem.title}
             </h1>
           </div>
@@ -138,7 +143,7 @@ export default async function ProblemDetailPage({ params }: Props) {
       <div className="grid lg:grid-cols-2 gap-6">
         {/* Problem description */}
         <div className="glass rounded-2xl p-6">
-          <h2 className="text-lg font-bold text-white mb-4 flex items-center gap-2" style={{ fontFamily: 'var(--font-display)' }}>
+          <h2 className="text-lg font-bold text-white mb-4 flex items-center gap-2 font-display">
             📋 Problem Statement
           </h2>
           <div
@@ -150,18 +155,17 @@ export default async function ProblemDetailPage({ params }: Props) {
         {/* Code */}
         <div className="glass rounded-2xl overflow-hidden">
           {/* Code header */}
-          <div className="flex items-center justify-between px-4 py-3 border-b border-white/8" style={{ background: '#13131f' }}>
+          <div className="flex items-center justify-between px-4 py-3 border-b border-white/8 detail-code-header">
             <div className="flex items-center gap-2">
               <Code2 className="w-4 h-4 text-slate-400" />
-              <span className="text-sm font-medium text-slate-300" style={{ fontFamily: 'var(--font-display)' }}>Solution</span>
+              <span className="text-sm font-medium text-slate-300 font-display">Solution</span>
             </div>
             <LanguageBadge language={problem.language} />
           </div>
 
           {/* Shiki highlighted code */}
           <div
-            className="overflow-auto text-sm"
-            style={{ maxHeight: '600px', background: '#282c34' }}
+            className="overflow-auto text-sm detail-code-body"
             dangerouslySetInnerHTML={{ __html: highlightedCode }}
           />
         </div>

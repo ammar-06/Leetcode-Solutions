@@ -3,7 +3,7 @@ import { GitFork, ExternalLink, Code2 } from 'lucide-react';
 
 export default function Navbar() {
   return (
-    <header className="sticky top-0 z-50 border-b border-white/10" style={{ background: 'rgba(15,15,19,0.85)', backdropFilter: 'blur(16px)' }}>
+    <header className="sticky top-0 z-50 border-b border-white/10 navbar-bg">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
@@ -11,7 +11,7 @@ export default function Navbar() {
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-violet-500 to-indigo-500 flex items-center justify-center shadow-lg shadow-violet-500/20 group-hover:shadow-violet-500/40 transition-shadow">
               <Code2 className="w-4 h-4 text-white" />
             </div>
-            <span className="font-display font-bold text-white text-lg" style={{ fontFamily: 'var(--font-display)' }}>
+            <span className="font-display font-bold text-white text-lg navbar-brand-font">
               Ammar<span className="text-violet-400">.</span>codes
             </span>
           </Link>

@@ -58,6 +58,7 @@ code, pre, .font-mono {
 /* Glass card */
 .glass {
   background: rgba(255, 255, 255, 0.04);
+  -webkit-backdrop-filter: blur(12px);
   backdrop-filter: blur(12px);
   border: 1px solid rgba(255, 255, 255, 0.08);
 }
@@ -144,3 +145,145 @@ code, pre, .font-mono {
 .problem-description sup, .problem-description sub {
   font-size: 0.75em;
 }
+
+/* ─── Navbar ─────────────────────────────────────────────── */
+.navbar-bg {
+  background: rgba(15, 15, 19, 0.85);
+  -webkit-backdrop-filter: blur(16px);
+  backdrop-filter: blur(16px);
+}
+.navbar-brand-font {
+  font-family: var(--font-display);
+}
+
+/* ─── Buttons / links ─────────────────────────────────────── */
+.btn-gradient-violet {
+  background: linear-gradient(135deg, #7c3aed, #4f46e5);
+}
+.btn-github {
+  background: #21262d;
+  border: 1px solid #30363d;
+}
+.btn-linkedin {
+  background: #0a66c2;
+  border: 1px solid #0a66c2;
+}
+.btn-portfolio {
+  background: rgba(255, 255, 255, 0.05);
+}
+.hero-badge-bg {
+  background: rgba(139, 92, 246, 0.08);
+}
+
+/* ─── Stat cards / charts ─────────────────────────────────── */
+.stat-value-font {
+  font-family: var(--font-display);
+}
+.lang-dot {
+  /* bg-color is set via CSS variable on the element */
+  background-color: var(--dot-color, #6b7280);
+}
+.lang-bar {
+  background-color: var(--bar-color, #6b7280);
+  opacity: 0.8;
+}
+.difficulty-bar-easy  { width: var(--easy-pct);   }
+.difficulty-bar-med   { width: var(--med-pct);    }
+.difficulty-bar-hard  { width: var(--hard-pct);   }
+.diff-sub-bar         { width: var(--sub-pct);    }
+
+/* ─── Headings that use display font ─────────────────────── */
+.font-display {
+  font-family: var(--font-display);
+}
+
+/* ─── Problem Card ────────────────────────────────────────── */
+.code-bg {
+  background: #0d0d1a;
+}
+.code-header-bg {
+  background: #13131f;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+.code-lines-wrap {
+  max-height: 140px;
+  overflow: hidden;
+}
+.code-line-number {
+  color: rgba(255, 255, 255, 0.2);
+  font-family: var(--font-mono);
+}
+.code-line-text {
+  color: #cdd6f4;
+  font-family: var(--font-mono);
+  white-space: pre;
+}
+.code-fade {
+  background: linear-gradient(to bottom, transparent, #0d0d1a);
+}
+.card-bg {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-left-width: 4px;
+}
+.card-border-easy   { border-left-color: #4ade80; }
+.card-border-medium { border-left-color: #fbbf24; }
+.card-border-hard   { border-left-color: #f87171; }
+
+/* ─── Browse / search bar ─────────────────────────────────── */
+.search-input-bg {
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+.select-bg {
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* ─── Detail page ─────────────────────────────────────────── */
+.detail-code-header {
+  background: #13131f;
+}
+.detail-code-body {
+  max-height: 600px;
+  background: #282c34;
+}
+.detail-border-easy   { border-left-color: #4ade80; }
+.detail-border-medium { border-left-color: #fbbf24; }
+.detail-border-hard   { border-left-color: #f87171; }
+
+/* ─── Language badge (dynamic colors via CSS custom props) ── */
+.lang-badge {
+  background-color: var(--lang-bg, #374151);
+  color: var(--lang-text, #e5e7eb);
+}
+
+/* ─── Per-language badge classes ─────────────────────────── */
+.lang-Python     { background-color: #3572A5; color: #fff; }
+.lang-Java       { background-color: #B07219; color: #fff; }
+.lang-TypeScript { background-color: #3178C6; color: #fff; }
+.lang-JavaScript { background-color: #F7DF1E; color: #000; }
+.lang-Elixir     { background-color: #6E4A7E; color: #fff; }
+.lang-Erlang     { background-color: #B83998; color: #fff; }
+.lang-SQL        { background-color: #E34C26; color: #fff; }
+.lang-Racket     { background-color: #3E5BA9; color: #fff; }
+.lang-Cpp        { background-color: #00599C; color: #fff; }
+.lang-default    { background-color: #6B7280; color: #fff; }
+
+/* ─── Per-language dot/bar for charts ───────────────────── */
+.lang-dot-Python     { background-color: #3572A5; }
+.lang-dot-Java       { background-color: #B07219; }
+.lang-dot-TypeScript { background-color: #3178C6; }
+.lang-dot-JavaScript { background-color: #F7DF1E; }
+.lang-dot-Elixir     { background-color: #6E4A7E; }
+.lang-dot-Erlang     { background-color: #B83998; }
+.lang-dot-SQL        { background-color: #E34C26; }
+.lang-dot-Racket     { background-color: #3E5BA9; }
+.lang-dot-Cpp        { background-color: #00599C; }
+.lang-dot-default    { background-color: #6B7280; }
+
+/* ─── Not-found page ──────────────────────────────────────── */
+.not-found-heading {
+  font-family: var(--font-display);
+}
+

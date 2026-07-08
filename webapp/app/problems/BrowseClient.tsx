@@ -6,9 +6,7 @@ import type { Problem } from '@/lib/types';
 import { CATEGORY_EMOJIS } from '@/lib/constants';
 import ProblemCard from '@/components/ProblemCard';
 import CategoryChip from '@/components/CategoryChip';
-import DifficultyBadge from '@/components/DifficultyBadge';
-import LanguageBadge from '@/components/LanguageBadge';
-import { Search, X, Filter, ChevronDown } from 'lucide-react';
+import { Search, X, ChevronDown } from 'lucide-react';
 
 interface BrowseClientProps {
   problems: Problem[];
@@ -87,8 +85,7 @@ export default function BrowseClient({ problems, categories, languages }: Browse
             placeholder="Search by title or number…"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            className="w-full pl-10 pr-4 py-2.5 rounded-xl text-sm text-white placeholder-slate-500 outline-none focus:ring-2 focus:ring-violet-500/50 transition-all"
-            style={{ background: 'rgba(255,255,255,0.06)', border: '1px solid rgba(255,255,255,0.08)' }}
+            className="w-full pl-10 pr-4 py-2.5 rounded-xl text-sm text-white placeholder-slate-500 outline-none focus:ring-2 focus:ring-violet-500/50 transition-all search-input-bg"
           />
         </div>
 
@@ -117,10 +114,11 @@ export default function BrowseClient({ problems, categories, languages }: Browse
 
         {/* Language select */}
         <select
+          aria-label="Filter by language"
+          title="Filter by language"
           value={selectedLanguage}
           onChange={(e) => setSelectedLanguage(e.target.value)}
-          className="px-3 py-2.5 rounded-xl text-xs font-mono text-slate-300 outline-none cursor-pointer transition-all focus:ring-2 focus:ring-violet-500/50"
-          style={{ background: 'rgba(255,255,255,0.06)', border: '1px solid rgba(255,255,255,0.08)' }}
+          className="px-3 py-2.5 rounded-xl text-xs font-mono text-slate-300 outline-none cursor-pointer transition-all focus:ring-2 focus:ring-violet-500/50 select-bg"
         >
           <option value="">All Languages</option>
           {languages.map((l) => (
@@ -196,7 +194,7 @@ export default function BrowseClient({ problems, categories, languages }: Browse
       ) : (
         <div className="text-center py-20">
           <div className="text-5xl mb-4">🔍</div>
-          <h3 className="text-lg font-semibold text-white mb-2" style={{ fontFamily: 'var(--font-display)' }}>No problems found</h3>
+          <h3 className="text-lg font-semibold text-white mb-2 font-display">No problems found</h3>
           <p className="text-slate-400 text-sm">Try adjusting your filters or search query.</p>
         </div>
       )}
