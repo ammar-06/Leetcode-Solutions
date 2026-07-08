@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0879-profitable-schemes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0879-profitable-schemes) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0561-array-partition](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0575-distribute-candies) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0566-reshape-the-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0733-flood-fill) |
