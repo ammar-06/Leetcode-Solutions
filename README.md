@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0089-gray-code](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0645-set-mismatch](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0980-unique-paths-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 | [0996-number-of-squareful-arrays](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0996-number-of-squareful-arrays) |
 ## Divide and Conquer
