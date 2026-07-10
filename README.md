@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0996-number-of-squareful-arrays) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1301-number-of-paths-with-max-score](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Recursion
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Binary Tree
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Array
 |  |
 | ------- |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -436,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -568,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [0996-number-of-squareful-arrays](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0996-number-of-squareful-arrays) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Design
 |  |
 | ------- |
@@ -625,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ammar-06/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
