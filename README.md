@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [0996-number-of-squareful-arrays](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0996-number-of-squareful-arrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-largest-component-size-by-common-factor](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0952-largest-component-size-by-common-factor) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
