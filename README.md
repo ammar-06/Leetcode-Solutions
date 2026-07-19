@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0972-equal-rational-numbers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0972-equal-rational-numbers) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-stamping-the-sequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0936-stamping-the-sequence) |
 | [0942-di-string-match](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0936-stamping-the-sequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0936-stamping-the-sequence) |
 | [0975-odd-even-jump](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0975-odd-even-jump](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Backtracking
 |  |
 | ------- |
