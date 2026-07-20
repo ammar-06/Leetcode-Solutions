@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0541-reverse-string-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0561-array-partition](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0705-design-hashset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -852,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0148-sort-list) |
 ## Trie
 |  |
 | ------- |
@@ -860,4 +864,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
