@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0575-distribute-candies](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0705-design-hashset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -851,4 +854,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0139-word-break) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
