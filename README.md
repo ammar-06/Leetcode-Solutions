@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0879-profitable-schemes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0879-profitable-schemes) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0097-interleaving-string) |
+| [0131-palindrome-partitioning](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0520-detect-capital](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -821,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0980-unique-paths-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 | [0996-number-of-squareful-arrays](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0996-number-of-squareful-arrays) |
 ## Divide and Conquer
