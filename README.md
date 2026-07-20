@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0879-profitable-schemes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0879-profitable-schemes) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0913-cat-and-mouse](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0913-cat-and-mouse) |
 | [0964-least-operators-to-express-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0964-least-operators-to-express-number) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0520-detect-capital](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0561-array-partition](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0575-distribute-candies) |
@@ -608,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0575-distribute-candies](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -842,4 +847,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
