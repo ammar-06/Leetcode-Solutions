@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0541-reverse-string-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0148-sort-list) |
