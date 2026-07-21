@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0086-partition-list) |
+| [0142-linked-list-cycle-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0541-reverse-string-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0142-linked-list-cycle-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0575-distribute-candies](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0148-sort-list) |
