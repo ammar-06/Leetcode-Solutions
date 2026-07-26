@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0223-rectangle-area) |
+| [0227-basic-calculator-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0227-basic-calculator-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0520-detect-capital](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0227-basic-calculator-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0682-baseball-game) |
