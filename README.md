@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0209-minimum-size-subarray-sum](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0561-array-partition](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0575-distribute-candies) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -819,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
