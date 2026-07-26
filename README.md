@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0520-detect-capital](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0575-distribute-candies](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -947,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
