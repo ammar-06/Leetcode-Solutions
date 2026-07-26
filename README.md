@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0575-distribute-candies) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -959,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -993,4 +997,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
