@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0879-profitable-schemes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0879-profitable-schemes) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0561-array-partition](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0575-distribute-candies) |
