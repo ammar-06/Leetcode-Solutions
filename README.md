@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0561-array-partition](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0575-distribute-candies) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0566-reshape-the-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0733-flood-fill) |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0284-peeking-iterator](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0284-peeking-iterator) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -906,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
