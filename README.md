@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0561-array-partition](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0575-distribute-candies) |
@@ -860,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0284-peeking-iterator](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0284-peeking-iterator) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -1046,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 ## Trie
 |  |
 | ------- |
@@ -1071,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Iterator
 |  |
@@ -1085,4 +1089,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
