@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+| [0310-minimum-height-trees](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
@@ -935,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0913-cat-and-mouse](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0913-cat-and-mouse) |
 | [0924-minimize-malware-spread](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0924-minimize-malware-spread) |
@@ -1000,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0913-cat-and-mouse](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0913-cat-and-mouse) |
 | [3620-network-recovery-pathways](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Game Theory
