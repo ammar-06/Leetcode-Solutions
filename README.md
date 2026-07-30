@@ -802,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0299-bulls-and-cows](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0575-distribute-candies](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -905,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0355-design-twitter](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -949,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
