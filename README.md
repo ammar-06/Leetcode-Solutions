@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
+| [0343-integer-break](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0879-profitable-schemes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0879-profitable-schemes) |
