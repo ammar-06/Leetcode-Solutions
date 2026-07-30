@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -839,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0682-baseball-game) |
@@ -895,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0284-peeking-iterator) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0341-flatten-nested-list-iterator](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -1025,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0933-number-of-recent-calls](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 | [0936-stamping-the-sequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0936-stamping-the-sequence) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
@@ -1119,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0284-peeking-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 ## Rolling Hash
 |  |
 | ------- |
