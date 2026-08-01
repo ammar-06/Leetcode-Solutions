@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0343-integer-break) |
+| [0365-water-and-jug-problem](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0486-predict-the-winner](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
