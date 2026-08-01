@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -1112,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0306-additive-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0980-unique-paths-iii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 | [0996-number-of-squareful-arrays](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0996-number-of-squareful-arrays) |
 ## Divide and Conquer
