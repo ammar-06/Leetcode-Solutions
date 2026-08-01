@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0372-super-pow) |
 | [0486-predict-the-winner](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
@@ -1123,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0372-super-pow) |
 ## Trie
 |  |
 | ------- |
