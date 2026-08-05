@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0400-nth-digit) |
 | [0486-predict-the-winner](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0400-nth-digit) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
