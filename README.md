@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0385-mini-parser](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -898,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0682-baseball-game) |
