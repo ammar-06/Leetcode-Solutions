@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0390-elimination-game](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
