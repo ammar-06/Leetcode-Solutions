@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0486-predict-the-winner](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0575-distribute-candies](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -1236,4 +1238,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0398-random-pick-index) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
