@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -1162,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0386-lexicographical-numbers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
