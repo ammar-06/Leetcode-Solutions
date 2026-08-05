@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0397-integer-replacement](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0913-cat-and-mouse](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0913-cat-and-mouse) |
 | [0964-least-operators-to-express-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0964-least-operators-to-express-number) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0561-array-partition](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -941,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0371-sum-of-two-integers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0393-utf-8-validation](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
