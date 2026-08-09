@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [0996-number-of-squareful-arrays](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0996-number-of-squareful-arrays) |
+| [1140-stone-game-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [0996-number-of-squareful-arrays](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0996-number-of-squareful-arrays) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1140-stone-game-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0999-available-captures-for-rook) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1140-stone-game-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -1046,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0903-valid-permutations-for-di-sequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1140-stone-game-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Geometry
@@ -1144,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0913-cat-and-mouse](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0913-cat-and-mouse) |
+| [1140-stone-game-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1267,4 +1272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
