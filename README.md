@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [0996-number-of-squareful-arrays](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0996-number-of-squareful-arrays) |
 | [1140-stone-game-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ammar-06/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1077,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0892-surface-area-of-3d-shapes) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ammar-06/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Graph Theory
 |  |
 | ------- |
