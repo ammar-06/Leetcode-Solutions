@@ -1,0 +1,24 @@
+var findMaximumXOR = function(nums) {
+    let max = 0;
+    let mask = 0;
+
+    for (let bit = 30; bit >= 0; bit--) {
+        mask |= (1 << bit);
+        const prefixes = new Set();
+
+        for (const num of nums) {
+            prefixes.add(num & mask);
+        }
+
+        const candidate = max | (1 << bit);
+
+        for (const prefix of prefixes) {
+            if (prefixes.has(prefix ^ candidate)) {
+                max = candidate;
+                break;
+            }
+        }
+    }
+
+    return max;
+};
