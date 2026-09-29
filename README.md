@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -1092,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0355-design-twitter) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0705-design-hashset](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -1274,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
