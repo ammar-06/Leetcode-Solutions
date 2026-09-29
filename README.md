@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0400-nth-digit) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0486-predict-the-winner](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0598-range-addition-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0520-detect-capital](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0575-distribute-candies](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
