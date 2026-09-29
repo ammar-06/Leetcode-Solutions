@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0397-integer-replacement) |
+| [0413-arithmetic-slices](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0413-arithmetic-slices](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
@@ -969,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ammar-06/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
